@@ -1,1 +1,1 @@
-Assignments for MERN Stack Course.
+Assignments for MERN Stack Course
